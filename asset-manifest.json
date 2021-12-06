@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/svg-map-animations/static/js/main.de250d43.chunk.js",
-    "main.js.map": "/svg-map-animations/static/js/main.de250d43.chunk.js.map",
+    "main.js": "/svg-map-animations/static/js/main.fed343fa.chunk.js",
+    "main.js.map": "/svg-map-animations/static/js/main.fed343fa.chunk.js.map",
     "runtime-main.js": "/svg-map-animations/static/js/runtime-main.23688c84.js",
     "runtime-main.js.map": "/svg-map-animations/static/js/runtime-main.23688c84.js.map",
     "static/js/2.ab64c164.chunk.js": "/svg-map-animations/static/js/2.ab64c164.chunk.js",
@@ -16,6 +16,6 @@
   "entrypoints": [
     "static/js/runtime-main.23688c84.js",
     "static/js/2.ab64c164.chunk.js",
-    "static/js/main.de250d43.chunk.js"
+    "static/js/main.fed343fa.chunk.js"
   ]
 }
