@@ -1,21 +1,25 @@
 {
   "files": {
-    "main.js": "/svg-map-animations/static/js/main.5f728537.chunk.js",
-    "main.js.map": "/svg-map-animations/static/js/main.5f728537.chunk.js.map",
-    "runtime-main.js": "/svg-map-animations/static/js/runtime-main.23688c84.js",
-    "runtime-main.js.map": "/svg-map-animations/static/js/runtime-main.23688c84.js.map",
-    "static/js/2.ab64c164.chunk.js": "/svg-map-animations/static/js/2.ab64c164.chunk.js",
-    "static/js/2.ab64c164.chunk.js.map": "/svg-map-animations/static/js/2.ab64c164.chunk.js.map",
-    "static/js/3.715a8e14.chunk.js": "/svg-map-animations/static/js/3.715a8e14.chunk.js",
-    "static/js/3.715a8e14.chunk.js.map": "/svg-map-animations/static/js/3.715a8e14.chunk.js.map",
+    "main.css": "/svg-map-animations/static/css/main.1138396c.chunk.css",
+    "main.js": "/svg-map-animations/static/js/main.7ffa69de.chunk.js",
+    "main.js.map": "/svg-map-animations/static/js/main.7ffa69de.chunk.js.map",
+    "runtime-main.js": "/svg-map-animations/static/js/runtime-main.ac87ca51.js",
+    "runtime-main.js.map": "/svg-map-animations/static/js/runtime-main.ac87ca51.js.map",
+    "static/js/2.090556aa.chunk.js": "/svg-map-animations/static/js/2.090556aa.chunk.js",
+    "static/js/2.090556aa.chunk.js.map": "/svg-map-animations/static/js/2.090556aa.chunk.js.map",
+    "static/js/3.cbe01e31.chunk.js": "/svg-map-animations/static/js/3.cbe01e31.chunk.js",
+    "static/js/3.cbe01e31.chunk.js.map": "/svg-map-animations/static/js/3.cbe01e31.chunk.js.map",
     "index.html": "/svg-map-animations/index.html",
-    "static/js/2.ab64c164.chunk.js.LICENSE.txt": "/svg-map-animations/static/js/2.ab64c164.chunk.js.LICENSE.txt",
-    "static/media/Background.762a4a6d.png": "/svg-map-animations/static/media/Background.762a4a6d.png",
-    "static/media/Slide2.fd78d2ae.png": "/svg-map-animations/static/media/Slide2.fd78d2ae.png"
+    "static/css/main.1138396c.chunk.css.map": "/svg-map-animations/static/css/main.1138396c.chunk.css.map",
+    "static/js/2.090556aa.chunk.js.LICENSE.txt": "/svg-map-animations/static/js/2.090556aa.chunk.js.LICENSE.txt",
+    "static/media/Background.32f6c4d3.png": "/svg-map-animations/static/media/Background.32f6c4d3.png",
+    "static/media/Slide2.fd78d2ae.png": "/svg-map-animations/static/media/Slide2.fd78d2ae.png",
+    "static/media/Slide2Mobile.a31e943d.png": "/svg-map-animations/static/media/Slide2Mobile.a31e943d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.23688c84.js",
-    "static/js/2.ab64c164.chunk.js",
-    "static/js/main.5f728537.chunk.js"
+    "static/js/runtime-main.ac87ca51.js",
+    "static/js/2.090556aa.chunk.js",
+    "static/css/main.1138396c.chunk.css",
+    "static/js/main.7ffa69de.chunk.js"
   ]
 }
