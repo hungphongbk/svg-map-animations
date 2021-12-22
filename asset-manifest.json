@@ -6,13 +6,13 @@
     "static/js/1.32f04af3.chunk.js.map": "/svg-map-animations/static/js/1.32f04af3.chunk.js.map",
     "static/js/2.e0f98f52.chunk.js": "/svg-map-animations/static/js/2.e0f98f52.chunk.js",
     "static/js/2.e0f98f52.chunk.js.map": "/svg-map-animations/static/js/2.e0f98f52.chunk.js.map",
-    "static/js/3.3dba09f7.chunk.js": "/svg-map-animations/static/js/3.3dba09f7.chunk.js",
-    "static/js/3.3dba09f7.chunk.js.map": "/svg-map-animations/static/js/3.3dba09f7.chunk.js.map",
+    "static/js/3.e80e05e9.chunk.js": "/svg-map-animations/static/js/3.e80e05e9.chunk.js",
+    "static/js/3.e80e05e9.chunk.js.map": "/svg-map-animations/static/js/3.e80e05e9.chunk.js.map",
     "main.css": "/svg-map-animations/static/css/main.1138396c.chunk.css",
     "main.js": "/svg-map-animations/static/js/main.4c58395e.chunk.js",
     "main.js.map": "/svg-map-animations/static/js/main.4c58395e.chunk.js.map",
-    "runtime-main.js": "/svg-map-animations/static/js/runtime-main.532427f8.js",
-    "runtime-main.js.map": "/svg-map-animations/static/js/runtime-main.532427f8.js.map",
+    "runtime-main.js": "/svg-map-animations/static/js/runtime-main.871d8223.js",
+    "runtime-main.js.map": "/svg-map-animations/static/js/runtime-main.871d8223.js.map",
     "static/js/6.d75c0839.chunk.js": "/svg-map-animations/static/js/6.d75c0839.chunk.js",
     "static/js/6.d75c0839.chunk.js.map": "/svg-map-animations/static/js/6.d75c0839.chunk.js.map",
     "static/js/7.3a324509.chunk.js": "/svg-map-animations/static/js/7.3a324509.chunk.js",
@@ -44,7 +44,7 @@
     "static/media/text1-desktop.7915e899.png": "/svg-map-animations/static/media/text1-desktop.7915e899.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.532427f8.js",
+    "static/js/runtime-main.871d8223.js",
     "static/js/6.d75c0839.chunk.js",
     "static/css/main.1138396c.chunk.css",
     "static/js/main.4c58395e.chunk.js"
