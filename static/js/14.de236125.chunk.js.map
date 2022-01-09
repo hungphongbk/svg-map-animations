@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/slide-dautuhoanmy/desktop.tsx"],"names":["Desktop","props"],"mappings":"2LACe,SAASA,EAAQC,GAC9B,OAAO","file":"static/js/14.de236125.chunk.js","sourcesContent":["type DesktopProps = {};\nexport default function Desktop(props: DesktopProps): JSX.Element {\n  return <></>;\n}\n"],"sourceRoot":""}
