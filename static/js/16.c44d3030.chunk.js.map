@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/slide-dautuhoanmy/mobile.tsx"],"names":["Mobile","props"],"mappings":"2LACe,SAASA,EAAOC,GAC7B,OAAO","file":"static/js/16.c44d3030.chunk.js","sourcesContent":["type MobileProps = {};\nexport default function Mobile(props: MobileProps): JSX.Element {\n  return <></>;\n}\n"],"sourceRoot":""}
