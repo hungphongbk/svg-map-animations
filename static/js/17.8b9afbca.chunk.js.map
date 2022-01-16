@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/slide-tien-ich/desktop.tsx"],"names":["Desktop","props"],"mappings":"2LAEe,SAASA,EAAQC,GAC9B,OAAO","file":"static/js/17.8b9afbca.chunk.js","sourcesContent":["import { SlideTienIchProps } from \"./types\";\n\nexport default function Desktop(props: SlideTienIchProps): JSX.Element {\n  return <></>;\n}\n"],"sourceRoot":""}
