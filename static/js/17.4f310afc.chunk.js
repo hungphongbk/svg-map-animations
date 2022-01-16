@@ -1,0 +1,2 @@
+(this["webpackJsonpsvg-map-animations"]=this["webpackJsonpsvg-map-animations"]||[]).push([[17],{327:function(t,n,a){"use strict";a.r(n),a.d(n,"default",(function(){return e}));var i=a(13),s=a(4);function e(t){var n=Object(i.b)();n.width,n.height;return Object(s.jsx)(s.Fragment,{})}}}]);
+//# sourceMappingURL=17.4f310afc.chunk.js.map
